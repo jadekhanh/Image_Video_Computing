@@ -2,7 +2,7 @@
 """
 **Colorizing images [30 points total, 3 parts].**
 
-  In this problem we will learn to work with images by taking the digitized [Prokudin-Gorskii glass plate images](https://www.loc.gov/exhibits/empire/gorskii.html) and automatically producing a color image with as few visual artifacts as possible. In order to do this, you will need to extract the three color channel images, place them on top of each other, and align them so that they form a single RGB color image.
+  In this problem, we will learn to work with images by taking the digitized [Prokudin-Gorskii glass plate images](https://www.loc.gov/exhibits/empire/gorskii.html) and automatically producing a color image with as few visual artifacts as possible. In order to do this, you will need to extract the three color channel images, place them on top of each other, and align them so that they form a single RGB color image.
 
   **a)** &ensp; **Read images [5 pts].** We'll start simple. Our first task is to read the file [00351v.jpg](https://drive.google.com/file/d/11fwxjlZkDOApoVZx0Pr4am1ClA6qdNaY/view?usp=sharing), extract the three color channel images and display each of them. Note that the filter order from top to bottom is BGR.
 """
